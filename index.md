@@ -1,6 +1,7 @@
 # <center> SimpleSpeech: Towards Simple and Efficient Speech Synthesis with Scalar Latent Transformer Diffusion Models </center>
-
-<center> Anonymous submission to Interspeech 2024 </center> 
+<center> Dongchao Yang, Dingdong Wang, Haohan Guo, Xueyuan Chen, Xixin Wu, Helen Meng </center> 
+<center> CUHK </center>
+<center> Accepted by Interspeech 2024 </center> 
  
 
 
