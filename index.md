@@ -2,6 +2,8 @@
 <center> Dongchao Yang, Dingdong Wang, Haohan Guo, Xueyuan Chen, Xixin Wu, Helen Meng </center> 
 <center> CUHK </center>
 <center> Accepted by Interspeech 2024 </center> 
+<center> Code is open-sourced in  https://github.com/yangdongchao/SimpleSpeech  </center>
+ 
  
 
 
